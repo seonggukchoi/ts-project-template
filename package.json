@@ -1,0 +1,22 @@
+{
+  "name": "typescript-project-template",
+  "version": "1.0.0",
+  "description": "Template for starting project using TypeScript",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seonggukchoi/typescript-project-template.git"
+  },
+  "author": "seonggukchoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seonggukchoi/typescript-project-template/issues"
+  },
+  "homepage": "https://github.com/seonggukchoi/typescript-project-template#readme",
+  "devDependencies": {
+    "@types/node": "^12.0.8"
+  }
+}
