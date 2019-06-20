@@ -4,7 +4,9 @@
   "description": "Template for starting project using TypeScript",
   "main": "./dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "lint": "tslint --project .",
+    "lint:fix": "tslint --project . --fix"
   },
   "repository": {
     "type": "git",
