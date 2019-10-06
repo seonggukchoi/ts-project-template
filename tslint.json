@@ -14,6 +14,7 @@
     "object-literal-sort-keys": false,
     "max-line-length": false,
     "no-namespace": false,
+    "no-empty": false,
     "arrow-parens": false,
     "no-angle-bracket-type-assertion": false,
     "whitespace": [
